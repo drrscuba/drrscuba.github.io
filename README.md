@@ -7,6 +7,10 @@ We love SCUBA and we think you will too! Our mission is to bring SCUBA to everyo
 
 We offer a range of PADI classes from Open Water Scuba Diver for those just getting certified to Divemaster for the experienced diver that wants to go pro. 
 
+# Contact Us
+
+Fill out our [form](https://forms.gle/EPvcDuhURQJgaeQ99) and we'll contact you as soon as we can.
+
 # Staff
 
 We are 3 friends that love scuba diving and the aquatic world. We wanted to create a dive shop environment & community that is safe and pleasant for all people that are interested in scuba diving and the aquatic world. 
