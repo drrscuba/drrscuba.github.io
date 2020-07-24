@@ -1,25 +1,37 @@
+## Welcome to GitHub Pages
 
-# Scuba for everyone
+You can use the [editor on GitHub](https://github.com/drrscuba/drrscuba.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-We love SCUBA and we think you will too! Our mission is to bring SCUBA to everyone, whether male, female, young, or old, regardless of mental or physical ability. 
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-# Classes
+### Markdown
 
-We offer a range of PADI classes from Open Water Scuba Diver for those just getting certified to Divemaster for the experienced diver that wants to go pro. 
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-# Staff
+```markdown
+Syntax highlighted code block
 
-We are 3 friends that love scuba diving and the aquatic world. We wanted to create a dive shop environment & community that is safe and pleasant for all people that are interested in scuba diving and the aquatic world. 
+# Header 1
+## Header 2
+### Header 3
 
-## Lisa Newman
+- Bulleted
+- List
 
-Lisa is a Master Scuba Diver and loves being in the water, whether at the lake or ocean. One of her passions is knowing all the fish and aquatic life she comes across, she always has her fish ID book close by.
+1. Numbered
+2. List
 
-## Duane Newman
+**Bold** and _Italic_ and `Code` text
 
-Duane is a PADI Master Scuba Diver Trainer and when he isn't teaching can usually be found diving with his camera in hand. After experiencing his own challenges becoming certified, and then falling in love with scuba, he pressed on to become an instructor so he could help others overcome their fears and discover the amazing underwater world.
+[Link](url) and ![Image](src)
+```
 
-## Krista Block
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-Krista is a PADI Master Scuba Diver Trainer
+### Jekyll Themes
 
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/drrscuba/drrscuba.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
