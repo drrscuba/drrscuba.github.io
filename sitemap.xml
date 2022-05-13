@@ -1,98 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://drrscuba.com/about/</loc>
     <lastmod>2020-07-24T23:28:45-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://drrscuba.com/classes/aow/</loc>
-    <lastmod>2020-08-01T00:14:54-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-05-13T15:01:40-05:00</lastmod>
+  </url><url>
     <loc>https://drrscuba.com/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://drrscuba.com/classes/</loc>
     <lastmod>2020-07-30T22:01:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://drrscuba.com/classes/discover/</loc>
-    <lastmod>2020-08-03T08:45:09-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-05-13T15:01:40-05:00</lastmod>
+  </url><url>
     <loc>https://drrscuba.com/services/travel/</loc>
     <lastmod>2020-08-03T08:45:09-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://drrscuba.com/classes/divemaster/</loc>
-    <lastmod>2020-08-01T00:14:54-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-05-13T15:01:40-05:00</lastmod>
+  </url><url>
     <loc>https://drrscuba.com/team/duane/</loc>
     <lastmod>2020-08-02T23:52:05-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://drrscuba.com/services/gear/</loc>
     <lastmod>2020-08-03T00:02:14-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://drrscuba.com/team/krista/</loc>
     <lastmod>2020-08-02T23:52:05-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://drrscuba.com/team/lisa/</loc>
     <lastmod>2020-08-02T23:52:05-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://drrscuba.com/services/maintenance/</loc>
     <lastmod>2020-07-30T21:25:51-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://drrscuba.com/classes/master/</loc>
-    <lastmod>2020-08-01T00:14:54-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-05-13T15:01:40-05:00</lastmod>
+  </url><url>
     <loc>https://drrscuba.com/team/</loc>
     <lastmod>2020-08-06T22:50:46-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://drrscuba.com/classes/owsd/</loc>
-    <lastmod>2020-08-01T00:14:54-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-05-13T15:01:40-05:00</lastmod>
+  </url><url>
     <loc>https://drrscuba.com/classes/rescue/</loc>
-    <lastmod>2020-08-01T00:14:54-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-05-13T15:01:40-05:00</lastmod>
+  </url><url>
     <loc>https://drrscuba.com/services/</loc>
     <lastmod>2020-07-30T22:01:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://drrscuba.com/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://drrscuba.com/</loc>
-    <lastmod>2020-08-02T23:52:05-05:00</lastmod>
+    <lastmod>2022-05-13T15:01:40-05:00</lastmod>
   </url>
-  
 </urlset>

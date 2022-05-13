@@ -5,11 +5,7 @@
     <link>https://drrscuba.com/team/</link>
     <description>Recent content in Meet Our Team on Dive Rinse Repeat Scuba, LLC</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://drrscuba.com/team/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://drrscuba.com/team/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Duane Newman</title>
       <link>https://drrscuba.com/team/duane/</link>
