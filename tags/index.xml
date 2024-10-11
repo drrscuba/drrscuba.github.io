@@ -2,9 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dive Rinse Repeat Scuba, LLC</title>
-    <link>https://drrscuba.com/tags/</link>
+    <link>https://bio.drrscuba.com/tags/</link>
     <description>Recent content in Tags on Dive Rinse Repeat Scuba, LLC</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://drrscuba.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Dive Rinse Repeat Scuba, LLC</copyright>
+    <atom:link href="https://bio.drrscuba.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
